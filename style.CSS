@@ -1,0 +1,10 @@
+.main {
+    color:rgb(14, 41, 194);
+    font: size 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
+}
+
+.space {
+    height:50px;
+}
