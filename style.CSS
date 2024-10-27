@@ -1,6 +1,12 @@
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
+    font-size: 17px;
+}
+
+
+.mainbody {
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .top-bar {
@@ -37,7 +43,7 @@ button:hover {
     background-color: #ffffff;
 }
 
-.line {
+.lineup {
     display: flex;
 }
 
@@ -49,7 +55,10 @@ button:hover {
     margin-top: 10px;
 }
 
-.mainbody {
-    margin-left: 200px;
+
+.textcolumn {
+    display: flex;
+    flex-direction: column;
     margin-right: 200px;
+    margin-bottom: 100px;
 }
